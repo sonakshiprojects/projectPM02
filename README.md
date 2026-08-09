@@ -1,4 +1,4 @@
-# Predictive Credit Risk Analytics & Machine Learning Dashboard
+Business Intelligence & Operational Analytics Dashboard
 
 An end-to-end credit risk intelligence solution designed to minimize portfolio default rates, evaluate machine learning classifiers, and optimize application approval workflows. This interactive 3-page business intelligence application bridges the gap between complex data science metrics and actionable executive insights.
 
