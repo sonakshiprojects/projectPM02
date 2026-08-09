@@ -6,6 +6,10 @@ An end-to-end **Business Intelligence and Operational Analytics solution** devel
 
 The project focuses on converting operational data into actionable insights through **KPI reporting, trend analysis, dashboard-based drill-down, and Root Cause Analysis (RCA).**
 
+Business Problem
+
+The business needed better visibility into operational and application performance to monitor key KPIs, identify performance trends, and detect segments with elevated risk. The project was designed to consolidate operational data into an interactive dashboard, perform KPI and trend analysis, conduct structured RCA, and translate findings into actionable insights for data-driven business decisions.
+
 ## 🎯 Objectives
 
 * Monitor key operational and business KPIs.
